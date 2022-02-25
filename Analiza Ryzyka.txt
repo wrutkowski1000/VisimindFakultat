@@ -1,0 +1,47 @@
+Ryzyko:
+Prawdopodobieństwo(1-4):
+Wpływ na projekt(1-4):
+Sposób ograniczenia ryzyka:
+Reakcja:
+
+1)
+Ryzyko: Zmiana środowiska pracy
+Prawdopodobieństwo(1-4): 1
+Wpływ na projekt(1-4): 4
+Sposób ograniczenia ryzyka: Trzymać się ustalonego na początku środowiska
+Reakcja: Przenoszenie kodu z dokładnością 1:1 bazując na nowych zasadach środowiska
+
+2)
+Ryzyko: Złe warunki pogodowe (np burza)
+Prawdopodobieństwo(1-4): 4
+Wpływ na projekt(1-4): 2
+Sposób ograniczenia ryzyka: Upewnienie się, że okablowanie budynku nie zagraża naszym urządzeniom
+Reakcja: Wyłączenie zasilania w budynku oraz wymiana przepalonych urządzeń i okablowania
+
+3)
+Ryzyko: Niezrozumienie wymagań
+Prawdopodobieństwo(1-4): 4
+Wpływ na projekt(1-4): 4
+Sposób ograniczenia ryzyka: Czytanie ze zrozumieniem i zadawanie odpowiednich pytań klientowi
+Reakcja: Najszybsza konsultacja z klientem
+
+4)
+Ryzyko: Zmiana składu członków (tymczasowa)
+Prawdopodobieństwo(1-4): 3
+Wpływ na projekt(1-4): 3
+Sposób ograniczenia ryzyka: Reszta pracowników powinna mieć conajmniej minimalne pojęcie o pracy swoich współpracowników
+Reakcja: Wytłumaczenie nowym członkom na czym polegają ich obowiązki
+
+5)
+Ryzyko: Śmierć członka
+Prawdopodobieństwo(1-4): 1
+Wpływ na projekt(1-4): 4
+Sposób ograniczenia ryzyka: Utrzymanie podstaw BHP w pracy
+Reakcja: Znalezienie najszybciej odpowiedniej osoby na dane stanowisko
+
+6)
+Ryzyko: Wyciek danych
+Prawdopodobieństwo(1-4): 2
+Wpływ na projekt(1-4): 3
+Sposób ograniczenia ryzyka: Zabezpieczenie systemu przed możliwymi wyciekami
+Reakcja: Zabezpieczenie systemu przed tymi samymi wyciekami. Zgłoszenie do urzędu, że wystąpił wyciek danych.
