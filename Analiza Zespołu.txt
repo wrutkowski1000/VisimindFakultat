@@ -1,0 +1,11 @@
+Analiza zespołu:
+
+Budżet: 
+	5 miesięcy
+
+Cel projektu: 
+	"On boarding - system wspomagający rekrutacje"
+
+Odpowiedzialności:
+	3 osoby backend
+	1 osoba frontend
