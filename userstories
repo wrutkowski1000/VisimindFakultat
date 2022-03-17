@@ -1,4 +1,11 @@
+features:
+-zarzadzanie kontem uzytkownika
+-mapa z lokalizacjami sklepow
+-katalog z produktami
+-powiadomienia o promocjach
+-kody rabatowe
 
+stories:
 Jako uzytkownik chce podac kod rabatowy aby uzyskac znizke
 jako uzytkownik chce znalezc lokalizacje sklepu aby udac sie na zakupy
 jako uzytkownik chce sprawdzic dostepne promocje aby dokonac zakupu
@@ -8,4 +15,9 @@ jako uzytkownik chce zalozyc konto aby miec staly dostep do systemu punktow oraz
 jako uzytkownik chce zamowic paczke do sklepu aby ja odebrac w bardziej dostepnym miejscu
 jako uzytkownik chce sprawdzic dostepnosc produktu aby wiedziec czy nie pojde na marne do sklepu
 jako uzytkownik chce zapisac sie do newslettera aby otrzymywac informacje o najlbizszych promocja droga email
+jako administrator chce wprowadzic zmiany w systemie
+jako administrator chce dodac informacje w systemie
+jako administrator chce nadac uprawnienia administratora uzytkownikowi
+jako administrator chce ustawic lokalizacje nowo utworzonego sklepu
+jako administrator chce usunac konto innego uzytkownika z systemu
 
