@@ -1,0 +1,6 @@
+-Pole na wyszukiwania znajduje sie w prawym gornym rogu
+-Pole posiada przycisk "szukaj"
+-Przy wpisywaniu zaczynaja sie pojawiac juz proponowane nazwy uzupelniajace podany przez nas tekst
+-Nazwa moze sie skladac z max 250 znakow
+-Wyswietlone nazwy juz mozna kliknac aby nastapilo wyszukiwanie wybranej frazy
+-Po wpisaniu pelnej nazwy recznie mozna uzyc przycisku by nastapilo wyszukiwanie 
